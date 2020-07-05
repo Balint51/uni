@@ -8,7 +8,6 @@ using namespace std;
 #include <iostream>
 
 
-legyenek a függvényekhez állapotterek meg feltételek a dokumentációban
 using namespace std;
 
 class Menu
