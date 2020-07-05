@@ -1,0 +1,8 @@
+6
+ember p 10
+ember2 t 200
+ember3 t 200
+ember4 t 300
+ember5 t 546
+ember6 t 666
+99
